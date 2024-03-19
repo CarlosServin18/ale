@@ -1,0 +1,14 @@
+.navbar {
+    width: 200px;
+    position: fixed;
+    left: 10px;
+    transition: left 0.3s;
+    /* Agrega aquí más estilos según necesites */
+  }
+  
+  .navbar.open {
+    left: 0;
+  }
+  
+  /* Estilos para los elementos internos, como el botón y los enlaces */
+  
